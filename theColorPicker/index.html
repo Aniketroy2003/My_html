@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color picker</title>
+    <style>
+        body{
+            background-color: rgb(225, 206, 172);
+        }
+        h1{
+            font-family: sans-serif;
+            text-align: center;
+            color: brown;
+            margin: auto;
+            width: 50%;
+            background-color: cyan;
+            border: 3px solid rgb(30, 30, 142);
+            border-radius: 50px;
+        }
+        #ball{
+            border: 5px solid rgb(182, 176, 176);
+            border-radius: 50%;
+            margin: 100px 38%;
+            /* margin: auto; */
+            width: 300px;
+            height: 300px;
+            text-align: center;
+            background-color: grey;
+        }
+        div{
+            margin: 0px;
+        }
+        input{
+            width: 30px;
+            height: 30px;
+            /* text-align: center; */
+            /* display: inline; */
+            border-radius: 50%;
+            /* margin-right: 100px; */
+        }
+    </style>
+
+    <script src="index.js"></script>
+</head>
+<body>
+
+    <h1 >Welcome to the COLOR PICKER Game</h1>
+
+    <button id="ball" onclick="colorChange()"></button>
+
+<div>
+    <input type="color" id="colorValue" value="#000000" onmouseleave="colorChange()">select your color here to see the change
+</div>
+
+    
+</body>
+</html>
