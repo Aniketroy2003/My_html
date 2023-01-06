@@ -14,3 +14,5 @@ this repo holds all the project I will be doing using html and css.
 ![image](https://user-images.githubusercontent.com/73846184/211029322-6c97b547-b452-4148-b15b-e3443e0f6f53.png)
 
 
+##Snake Game
+![image](https://user-images.githubusercontent.com/73846184/211032354-27d4d578-ed13-4f12-b190-d92471461b58.png)
