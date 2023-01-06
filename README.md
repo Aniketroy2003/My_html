@@ -10,3 +10,7 @@ this repo holds all the project I will be doing using html and css.
 ### --> Mole Hitter
 ![image](https://user-images.githubusercontent.com/73846184/211023387-e6edbf87-2a2d-49d0-8d00-4a16232bda56.png)
 
+### --> Simple Countdown
+![image](https://user-images.githubusercontent.com/73846184/211029322-6c97b547-b452-4148-b15b-e3443e0f6f53.png)
+
+
